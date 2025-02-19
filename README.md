@@ -55,14 +55,13 @@ List and briefly explain the phases of the Software Development Life Cycle.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
-**Comparison of Waterfall and Agile Methodologies**
+**Flexibility:** Waterfall follows a rigid structure, making changes difficult, whereas Agile is highly adaptable to evolving requirements.
 
-**Aspect	                  Waterfall (Sequential)	              Agile (Iterative)**
-Flexibility	Rigid,          hard to change	                       Highly adaptable
-Phases	                    One phase at a time	                   Continuous iterations
-User Involvement	          Limited	                               Ongoing feedback
-Testing	                    After development                      Throughout development
-Delivery	                  One final release	Frequent            incremental releases
+**Phases**: Waterfall completes one phase before moving to the next, while Agile uses continuous iterations.
+User Involvement: Waterfall has limited user feedback until the final product, while Agile encourages ongoing collaboration.
+
+**Testing:** In Waterfall, testing happens after development, whereas Agile integrates testing throughout the process.
+Delivery: Waterfall delivers a single final release, while Agile provides frequent, incremental updates.
 
 **Waterfall:**
 1. Large government or enterprise projects with fixed requirements (e.g., banking software).
